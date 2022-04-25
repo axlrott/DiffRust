@@ -1,1 +1,1 @@
-/home/axel/Descargas/Taller2022/diff/target/debug/diff: /home/axel/Descargas/Taller2022/diff/src/lcs/file.rs /home/axel/Descargas/Taller2022/diff/src/lcs/matrix.rs /home/axel/Descargas/Taller2022/diff/src/lcs/mod.rs /home/axel/Descargas/Taller2022/diff/src/main.rs
+/home/axel/Descargas/DiffRust/target/debug/diff: /home/axel/Descargas/DiffRust/src/lcs/file.rs /home/axel/Descargas/DiffRust/src/lcs/matrix.rs /home/axel/Descargas/DiffRust/src/lcs/mod.rs /home/axel/Descargas/DiffRust/src/main.rs
