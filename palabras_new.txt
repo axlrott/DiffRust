@@ -1,0 +1,10 @@
+con espacio
+texto
+probas
+iguales
+vaca
+campeonato
+franco
+lucha
+Mayusculas
+linea extra

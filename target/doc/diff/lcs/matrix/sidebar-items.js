@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MatrixError","Enum de los errores posibles de la estructura Matrix"]],"struct":[["Matrix","Estructura que va a representar a una matriz"]],"type":[["MatrixResult",""]]});

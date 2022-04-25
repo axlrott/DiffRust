@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main","Programa que pasados dos archivos por parametro realiza el diff del primero con el segundo"]],"mod":[["lcs","Modulo de LCS que contiene una matriz sobre la cual se va a realizar LCS y un contenedor de archivos para ir haciendo el diff de los mismos linea por linea"]]});
