@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["FileLCSError","Enum de los errores posibles de la estructura FileLCS"]],"struct":[["FileLCS","Estructura que se utiliza para leer archivos con los cuales hacer diff mediante LCS"]]});
